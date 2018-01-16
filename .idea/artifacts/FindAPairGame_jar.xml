@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FindAPairGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FindAPairGame_jar</output-path>
+    <root id="archive" name="FindAPairGame.jar">
+      <element id="module-output" name="FindAPairGame" />
+    </root>
+  </artifact>
+</component>
